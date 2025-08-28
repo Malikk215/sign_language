@@ -1,0 +1,11 @@
+streamlit
+numpy
+opencv-python-headless
+mediapipe
+protobuf
+pillow
+protobuf
+matplotlib
+scikit-learn
+tqdm
+pandas
